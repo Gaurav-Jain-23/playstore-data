@@ -74,4 +74,5 @@
     {"id": 8, "appId": "com.gross8", "title": "Grossing App 8", "summary": "Finance revenue", "developer": "Dev B1", "icon": "https://picsum.photos/200/200?random=68", "score": 4.2, "price": 0.0, "free": true, "playStoreUrl": "https://play.google.com/store/apps/details?id=com.gross8"},
     {"id": 9, "appId": "com.gross9", "title": "Grossing App 9", "summary": "Travel revenue", "developer": "Dev C1", "icon": "https://picsum.photos/200/200?random=69", "score": 4.4, "price": 0.0, "free": true, "playStoreUrl": "https://play.google.com/store/apps/details?id=com.gross9"},
     {"id": 10, "appId": "com.gross10", "title": "Grossing App 10", "summary": "Shopping revenue", "developer": "Dev D1", "icon": "https://picsum.photos/200/200?random=70", "score": 4.8, "price": 0.0, "free": true, "playStoreUrl": "https://play.google.com/store/apps/details?id=com.gross10"},
-    {"id": 11, "appId": "com.gross11", "title": "Grossing App 11", "summary": "Top revenue", "developer": "Dev U", "icon": "https://picsum.photos/200/200?random=71", "score": 4.7, "price": 0.0
+  ]
+}
