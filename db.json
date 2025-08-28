@@ -9,7 +9,7 @@
     {"id": 7, "appId": "com.app7", "title": "Free App 7", "summary": "Education", "developer": "Dev G", "icon": "https://picsum.photos/200/200?random=7", "score": 4.7, "price": 0.0, "free": true, "playStoreUrl": "https://play.google.com/store/apps/details?id=com.app7"},
     {"id": 8, "appId": "com.app8", "title": "Free App 8", "summary": "Finance", "developer": "Dev H", "icon": "https://picsum.photos/200/200?random=8", "score": 4.4, "price": 0.0, "free": true, "playStoreUrl": "https://play.google.com/store/apps/details?id=com.app8"},
     {"id": 9, "appId": "com.app9", "title": "Free App 9", "summary": "Travel", "developer": "Dev I", "icon": "https://picsum.photos/200/200?random=9", "score": 4.0, "price": 0.0, "free": true, "playStoreUrl": "https://play.google.com/store/apps/details?id=com.app9"},
-    {"id": 10, "appId": "com.app10", "title": "Free App 10", "summary": "Shopping", "developer": "Dev J", "icon": "https://picsum.photos/200/200?random=10", "score": 4.9, "price": 0.0, "free": true, "playStoreUrl": "https://play.google.com/store/apps/details?id=com.app10"},
+    {"id": 10, "appId": "com.app10", "title": "Free App 10", "summary": "Shopping", "developer": "Dev J", "icon": "https://picsum.photos/200/200?random=10", "score": 4.9, "price": 0.0, "free": true, "playStoreUrl": "https://play.google.com/store/apps/details?id=com.app10"}
   ],
   "toppaid": [
     {"id": 1, "appId": "com.paid1", "title": "Paid App 1", "summary": "Premium fun", "developer": "Dev K", "icon": "https://picsum.photos/200/200?random=31", "score": 4.6, "price": 1.99, "free": false, "playStoreUrl": "https://play.google.com/store/apps/details?id=com.paid1"},
@@ -32,6 +32,6 @@
     {"id": 2, "appId": "com.gross2", "title": "Grossing App 2", "summary": "High revenue", "developer": "Dev V", "icon": "https://picsum.photos/200/200?random=62", "score": 4.4, "price": 0.0, "free": true, "playStoreUrl": "https://play.google.com/store/apps/details?id=com.gross2"},
     {"id": 3, "appId": "com.gross3", "title": "Grossing App 3", "summary": "Popular game", "developer": "Dev W", "icon": "https://picsum.photos/200/200?random=63", "score": 4.8, "price": 0.0, "free": true, "playStoreUrl": "https://play.google.com/store/apps/details?id=com.gross3"},
     {"id": 4, "appId": "com.gross4", "title": "Grossing App 4", "summary": "Revenue tool", "developer": "Dev X", "icon": "https://picsum.photos/200/200?random=64", "score": 4.3, "price": 0.0, "free": true, "playStoreUrl": "https://play.google.com/store/apps/details?id=com.gross4"},
-    {"id": 5, "appId": "com.gross5", "title": "Grossing App 5", "summary": "Social revenue", "developer": "Dev Y", "icon": "https://picsum.photos/200/200?random=65", "score": 4.6, "price": 0.0, "free": true, "playStoreUrl": "https://play.google.com/store/apps/details?id=com.gross5"},
+    {"id": 5, "appId": "com.gross5", "title": "Grossing App 5", "summary": "Social revenue", "developer": "Dev Y", "icon": "https://picsum.photos/200/200?random=65", "score": 4.6, "price": 0.0, "free": true, "playStoreUrl": "https://play.google.com/store/apps/details?id=com.gross5"}
   ]
 }
